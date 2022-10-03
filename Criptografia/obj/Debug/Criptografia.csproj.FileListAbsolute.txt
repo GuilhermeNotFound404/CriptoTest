@@ -1,0 +1,10 @@
+E:\3I3\adm\ipssi\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe.config
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe.config
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.exe
+E:\TesteCriptografia\Criptografia\bin\Debug\Criptografia.pdb
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.csprojResolveAssemblyReference.cache
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.Form1.resources
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.Cache
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.exe
+E:\TesteCriptografia\Criptografia\obj\Debug\Criptografia.pdb
